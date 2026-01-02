@@ -522,6 +522,7 @@ Install via: `pip install pandas numpy scikit-learn matplotlib seaborn`
 👥 Contributors
 
 Team Name: OneAboveAll
+
 Team Members:
 Partha Sarathy G
 Nithin bhargav G
